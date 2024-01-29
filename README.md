@@ -15,7 +15,7 @@
 
 # How to install the project:
 
-[1] <code>git clone  </code>
+[1] <code>git clone https://github.com/jo17-dev/react-form.git </code>
 
 [2] <code>npm install </code>
 
