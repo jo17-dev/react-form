@@ -5,15 +5,17 @@
 
  # Stack:
  
- [+] React
- 
  [+] Vite
+ 
+ [+] React.js
+
+ [+] chakra-ui
 
  [+] React-router-dom
 
 # How to install the project:
 
-[1] <code>git clone </code>
+[1] <code>git clone  </code>
 
 [2] <code>npm install </code>
 
